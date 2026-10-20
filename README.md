@@ -1,42 +1,42 @@
 <!--
   GitHub profile README for MADS0LADEN.
-  Copy this file to https://github.com/MADS0LADEN/MADS0LADEN (the repo named after your username).
 -->
 # Hi, I'm Mads 👋
 Electrician by trade. AP graduate in IT Technology. Now studying **cyber security** at UCN in Denmark.
 
-I run **Linux as my main driver on desktop** 🐧 — daily driving, homelab, the works. Windows doesn't get a look in here.
+I daily-drive **[Omarchy](https://omarchy.org)** / Linux on the desktop — homelab, Stream Deck, Cast, and the small tools that make that stick.
 
-GitHub is not a showcase of greenfield apps for me. It is the spare-parts drawer for things I actually run: a long-lived Minecraft community, a homelab, and whatever broke after the last update.
+GitHub is not a portfolio of greenfield apps. It is the spare-parts drawer for things I actually run: a long-lived Minecraft community, a Linux desktop, and a house that is also a lab.
 
 ## MÆLK ⛏️
-I help run **[MÆLK](https://maelk.net)** — a Danish Minecraft survival and creative community that has been online since 2012.
+I help run **[MÆLK](https://maelk.net)** — a Danish Minecraft survival and creative community online since 2012.
 - Play: `mc.maelk.net`
 - Org: [@MAELKEN](https://github.com/maelken)
 
-That is why this profile is full of Paper and Purpur plugins. I fork what the server depends on, then keep it working when Minecraft moves: mcMMO, claims, holograms, Discord, voice chat, Skript extras, MOTD, RTP, worlds, and the rest.
+That is why this profile is full of Paper and Purpur plugins. I fork what the server depends on, then keep it working when Minecraft moves.
 
-Recent forks I am actually touching: [skript-yaml](https://github.com/MADS0LADEN/skript-yaml), [skript-placeholders](https://github.com/MADS0LADEN/skript-placeholders), [PistonMOTD](https://github.com/MADS0LADEN/PistonMOTD), [AxiomPaperPlugin](https://github.com/MADS0LADEN/AxiomPaperPlugin), [lod-server-support](https://github.com/MADS0LADEN/lod-server-support).
+Recent forks I am actually touching: [AxiomPaperPlugin](https://github.com/MADS0LADEN/AxiomPaperPlugin), [FastAsyncWorldEdit](https://github.com/MADS0LADEN/FastAsyncWorldEdit), [skript-placeholders](https://github.com/MADS0LADEN/skript-placeholders), [skript-yaml](https://github.com/MADS0LADEN/skript-yaml), [lod-server-support](https://github.com/MADS0LADEN/lod-server-support).
 
-## Homelab 🏠🔧
+## Desktop & homelab 🐧🏠
+Full-time Linux desktop on Omarchy. Home Assistant, UniFi, containers — if it can be self-hosted, I will probably try.
 
-The house is a lab. Home Assistant, UniFi, Linux, and containers. If something can be self-hosted, I will probably try.
-
-My desktop runs Linux full-time, so anything I build or fork gets tested there first — no VM as a safety net.
-
-Lately that includes [OpenDeck](https://github.com/MADS0LADEN/OpenDeck), so a Stream Deck behaves on Linux, and [home-assistant/core](https://github.com/MADS0LADEN/core) when I need to see how an automation really works.
+Public bits I am in lately:
+- [oma-cast](https://github.com/MADS0LADEN/oma-cast) — Omarchy-flavoured Cast / launcher tooling
+- [omashoutout](https://github.com/MADS0LADEN/omashoutout) — virtual audio out to Google Cast on Linux
+- [omaport](https://github.com/MADS0LADEN/omaport) — bar widget for local dev ports
+- [omarchy-multi-output](https://github.com/MADS0LADEN/omarchy-multi-output) — multi-output helpers
+- [OpenDeck](https://github.com/MADS0LADEN/OpenDeck) — Stream Deck on Linux
 
 I still think like an electrician: if it is not installed, documented, and able to fail without taking the rest of the house down, it is not done. ⚡
 
 ## Right now 🚧
-
 - Bachelor in IT security at UCN (2025–2027)
+- Omarchy desktop tooling and small Linux utilities
 - Keeping MÆLK on current server software
-- Homelab: Home Assistant, networking, **Linux desktop as daily driver**
+- Homelab: Home Assistant, networking, self-hosted services
 
 ## Toolbox 🧰
-
-`Linux` `Java` `Python` `Paper` `Purpur` `Skript` `Home Assistant` `UniFi` `Docker` `Podman`
+`Linux` `Omarchy` `Java` `Python` `Rust` `Paper` `Purpur` `Skript` `Home Assistant` `UniFi` `Podman`
 
 ## Elsewhere 🌐
 - Site: [madsoladen.dk](https://madsoladen.dk)
